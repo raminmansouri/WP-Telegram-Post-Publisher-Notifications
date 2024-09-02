@@ -2,15 +2,15 @@
 /*
 Plugin Name: Telegram Channel Notifications
 Description: Sends notifications to a Telegram channel when a new post is published.
-Version: 1.0.0
+Version: 1.0.1
 Author: Ramin Mansouri Pouya
 Website: www.viragraphics.com
 */
 
 // Your Telegram bot API token
-define('TELEGRAM_BOT_TOKEN', '6585924951:AAGDZtZU2-WRax3OWRpGIwNtppZkEpUI_Kw');
+define('TELEGRAM_BOT_TOKEN', 'YOUR BOT TOKEN');
 // Your Telegram channel ID
-define('TELEGRAM_CHANNEL_ID', '-1002068835331');
+define('TELEGRAM_CHANNEL_ID', 'YOUR CHANNEL ID');
 
 // Function to send a message to the Telegram channel
 function send_telegram_message($message) {
