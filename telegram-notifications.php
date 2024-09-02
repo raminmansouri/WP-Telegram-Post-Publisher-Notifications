@@ -2,7 +2,7 @@
 /*
 Plugin Name: Telegram Channel Notifications
 Description: Sends notifications to a Telegram channel when a new post is published.
-Version: 1.0
+Version: 1.0.0
 Author: Ramin Mansouri Pouya
 Website: www.viragraphics.com
 */
